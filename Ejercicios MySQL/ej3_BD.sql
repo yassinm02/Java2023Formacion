@@ -94,7 +94,7 @@ CREATE TABLE `estudios` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Volcado de datos para la tabla `estudios`
+-- Volcado de datos pa
 --
 
 INSERT INTO `estudios` (`empleado_dni`, `universidad`, `año`, `grado`, `especialidad`) VALUES
