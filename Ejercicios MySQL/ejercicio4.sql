@@ -33,6 +33,3 @@ CREATE TABLE viaje (
 
 
 
-
-
-
